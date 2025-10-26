@@ -53,7 +53,7 @@
 }
 
 
-#let cv(name: "", phone: "", email: "", birthday: "", website: "", avatar: "", body) = {
+#let cv(name: "", phone: "", email: "", website: "", avatar: "", body) = {
   set document(title: name)
   set page(paper: "a4", margin: (x: 2.1cm, y: 1.2cm))
   set text(font: "LXGW WenKai", 0.9em, weight: "regular");
@@ -85,13 +85,6 @@
       link("mailto:" + email)[
         #box(image("./icons/envelope.svg"))
         #email
-      ],
-      text(weight: "regular", baseline: 2pt)[
-        ·
-      ],
-      link("")[
-        #box(image("./icons/birth.svg"))
-        #birthday
       ],
       text(weight: "regular", baseline: 2pt)[
         ·
