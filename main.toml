@@ -1,47 +1,31 @@
 [cv]
-name = "胡图图"
-email = "tutuhu@gmail.com"
-phone = "(+86) 820-820-8820"
-website = "https://www.wikiwand.com/zh/大耳朵图图"
-birthday = "2000.06.21"
+name = "Zhihui Da"
+email = "zhihuid2@illinois.edu"
+phone = "(+1) 447-902-6095"
+website = "https://www.linkedin.com/in/zhihui-da-426a29325"
 # 路径
 avatar = ""
 
 [[educations]]
-school = "翻斗幼儿园"
-major = "软件工程"
-degree = "幼儿园"
-date = "2006.9 - now"
+school = "University of illinois Urbana-Champaign"
+major = "Construction Management"
+degree = "Master's"
+date = "2024.8 - now"
 
 [[educations]]
-school = "翻斗学前班"
-major = "计算机科学与技术"
-degree = "学前班"
-date = "2003.9 - 2006.6"
+school = "Chang'an University"
+major = "Road, bridge and river-crossing Engineering"
+degree = "Bachelor's"
+date = "2021.8 - 2025.6"
 
 [[projects]]
-name = "Kubernetes"
-url = "https://github.com/kubernetes/kubernetes"
-date = "2014.6 - now"
-desc = "Kubernetes是一个开源的，用于管理云平台中多个主机上的容器化的应用"
-points = ["负责Kubernetes的网络部分", "负责Kubernetes的不知道什么部分"]
-
-[[projects]]
-name = "Linux"
-url = "https://github.com/torvalds/linux"
-date = "2006.6 - 2022.6"
-desc = "Linux是一个开源的操作系统内核"
-points = [
-    "负责Linux的文件系统部分，包括ext4, btrfs, xfs, f2fs",
-    "负责Linux的网络部分，包括TCP/IP, UDP, SCTP, DCCP, IPv4, IPv6",
-]
-
-[[projects]]
-name = "翻斗幼儿园每日打卡"
+name = "Harrah's Rincon Resort Expansion Project Bid Simulation"
 url = ""
-date = "2019.12 - 2023.1"
-desc = ""
-points = ["可以进行翻斗幼儿园每日打卡", "在线用户超过20"]
+date = "2024.9 - 2024.12"
+desc = "The project is located in Valley Center, California. The project objective is to prepare bids for bid packages No.2 and No.5 of the Harrah's Rincon Resort expansion project."
+points = ["Responsible for the quantity takeoff and cost estimation of the bid packages No.5",
+"Utilize the RSMeans cost database to estimate the cost of earthwork, structure, and finishes for approximately $8.5 million",
+""]
 
 [[internships]]
 company = "翻斗大街翻斗花园2号楼"
