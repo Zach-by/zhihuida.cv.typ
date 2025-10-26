@@ -27,34 +27,37 @@ points = ["Responsible for the quantity takeoff and cost estimation of the bid p
 "Utilize the RSMeans cost database to estimate the cost of earthwork, structure, and finishes for approximately $8.5 million",
 "Proficient in the preparation of Bill Of Quantities and cost estimation process under the American AIA standard contract framework"]
 
+[[projects]]
+name = "Xi'an Metro Line 8 (Qujiangchi West to Hanyao Section)"
+url = ""
+date = "2023.6 - 2023.8"
+desc = "The project is located in Xi'an, Shaanxi. The project department is responsible for the construction of all main structures of the Qujiangchixi to Hanyao section of Xi'an Metro Line 8."
+points = ["Participate in the construction drawing design of the tunnel support system, assist in completing the AutoCAD drawings of the key node support parts, and ensure that the design meets the on-site construction requirements",
+"Assist the technical director to analyze and interpret the construction drawings of the shield section, station main structure, etc., and gain an in-depth understanding of the conversion process from drawings to site",
+"Responsible for on-site quality inspection of processes such as steel bar binding and formwork support, following national standards, and assisting in the rectification of more than 15 quality issues",
+"As one of the communication coordinators between the project department and the supervision unit, I participate in weekly engineering meetings to report on construction progress, communicate and solve on-site technical problems"]
+
 [[internships]]
 company = "CSCEC"
-jobtitle = "Technical Engineer"
+jobtitle = "Technical Engineer in Xi'an Metro Line 8"
 date = "2023.6 - 2023.8"
 points = ["Proficient in engineering drawing based on AutoCAD", 
 "Master the transformation process from drawings to construction", 
-"和张小帅一起睡觉(误)"]
+"Responsible for construction site supervision",
+"Prepare construction progress reports to report on construction progress"]
 
 [[awards]]
-name = "最佳编导奖（获奖）"
-date = "2006.11.8"
-
-[[awards]]
-name = "优秀长篇美术片奖（获奖）"
-date = "2006.11.8"
-
-[[awards]]
-name = "中国电视艺术最高政府奖 - 星光奖"
-date = "2010.1.24"
+name = "First Prize, Chang'an University Bridge Structure Design Competition"
+date = "2022.5.19"
 
 [[skills]]
-name = "编程语言"
-desc = "C/C++, Python, Java, JavaScript, HTML/CSS, PHP, SQL"
+name = "Engineering Software"
+desc = "Primavera P6, Microsoft Project, AutoCAD, Midas, VEROAD"
 
 [[skills]]
-name = "工具"
-desc = "Git, Vim, VS Code, Linux, Docker, MySQL, MongoDB, Redis"
+name = "Programming"
+desc = "Git, VS Code, Python, Julia, Typst"
 
 [[skills]]
-name = "语言"
-desc = "中文, 英语, 日语, 俄语, 法语, 德语, 西班牙语, 阿拉伯语, 葡萄牙语, 意大利语, 希腊语, 土耳其语"
+name = "Language"
+desc = "English, Chinese Mandarin"
