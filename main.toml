@@ -25,19 +25,15 @@ date = "2024.9 - 2024.12"
 desc = "The project is located in Valley Center, California. The project objective is to prepare bids for bid packages No.2 and No.5 of the Harrah's Rincon Resort expansion project."
 points = ["Responsible for the quantity takeoff and cost estimation of the bid packages No.5",
 "Utilize the RSMeans cost database to estimate the cost of earthwork, structure, and finishes for approximately $8.5 million",
-""]
+"Proficient in the preparation of Bill Of Quantities and cost estimation process under the American AIA standard contract framework"]
 
 [[internships]]
-company = "翻斗大街翻斗花园2号楼"
-jobtitle = "端茶倒水"
-date = "2022.4 - 2022.6"
-points = ["负责端茶倒水", "负责浇花"]
-
-[[internships]]
-company = "翻斗幼儿园"
-jobtitle = "扮演小学生"
-date = "2022.4 - 2022.6"
-points = ["和张小帅一起玩", "和张小帅一起吃饭", "和张小帅一起睡觉(误)"]
+company = "CSCEC"
+jobtitle = "Technical Engineer"
+date = "2023.6 - 2023.8"
+points = ["Proficient in engineering drawing based on AutoCAD", 
+"Master the transformation process from drawings to construction", 
+"和张小帅一起睡觉(误)"]
 
 [[awards]]
 name = "最佳编导奖（获奖）"

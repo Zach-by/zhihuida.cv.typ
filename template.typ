@@ -107,7 +107,7 @@
 
 // 教育背景
 #let educations(educations) = {
-  section-header(title: "教育背景", icon: "./icons/education.svg")
+  section-header(title: "Educations", icon: "./icons/education.svg")
   set text(1.05em)
 
   for education in educations {
@@ -128,7 +128,7 @@
 
 // 项目经历
 #let projects(projects) = {
-  section-header(title: "项目经历", icon: "./icons/project.svg")
+  section-header(title: "Project Experience", icon: "./icons/project.svg")
 
   set list(indent: 1em, tight: true)
 
@@ -147,8 +147,8 @@
         text(weight: "black", project.desc)
       }
 
-      #for point in project.points.map(x => "[" + x + "]")  {
-        list(eval(point))
+      #for point in project.points {
+        list(point)
       }
       #v(3pt)
     ]
@@ -157,7 +157,7 @@
 
 // 实习经历
 #let internships(internships) = {
-  section-header(title: "实习经历", icon: "./icons/internship.svg")
+  section-header(title: "Internships", icon: "./icons/internship.svg")
   set list(indent: 1em, tight: true)
 
   for internship in internships {
@@ -179,7 +179,7 @@
 
 // 荣誉奖项
 #let awards(awards) = {
-  section-header(title: "荣誉奖项", icon: "./icons/award.svg")
+  section-header(title: "Awards", icon: "./icons/award.svg")
   set list(tight: true, marker: none, body-indent: 0pt)
 
   for award in awards {
@@ -194,7 +194,7 @@
 
 // 个人技能
 #let skills(skills) = {
-  section-header(title: "个人技能", icon: "./icons/skill.svg")
+  section-header(title: "Skills", icon: "./icons/skill.svg")
   set list(tight: true, marker: none, body-indent: 0pt)
 
   for skill in skills {
