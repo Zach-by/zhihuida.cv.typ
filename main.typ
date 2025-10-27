@@ -13,6 +13,7 @@
 )
 
 #educations(data.educations)
+#schools(data.schools)
 #projects(data.projects)
 #internships(data.internships)
 #awards(data.awards)

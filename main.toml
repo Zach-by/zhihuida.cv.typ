@@ -18,6 +18,21 @@ major = "Road, bridge and river-crossing Engineering"
 degree = "Bachelor's"
 date = "2021.8 - 2025.6"
 
+[[schools]]
+dapartment = "CSSA Graduate Student Department, UIUC"
+jobtitle = "Vice President"
+date = "2025.04 - now"
+points = ["Participated in planning and organizing three entertainment and career development activities for more than 500 students from UIUC. Developed leadership and organizational skills."]
+
+
+[[schools]]
+dapartment = "Office of International Affiair, Chang'an University"
+jobtitle = "Student Assistant"
+date = "2022.09 - 2023.06"
+points = ["Assisted teachers in handling daily affairs for international students and the preparations for international academic conferences, and acquired Chinese and English communication and cross-cultural collaboration skills",
+"With excellent academic performance, was selected for the 3+2 joint degree program between Chang'an University and University of Illinois at Urbana-Champaign"]
+
+
 [[projects]]
 name = "Harrah's Rincon Resort Expansion Project Bid Simulation"
 url = ""

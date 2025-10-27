@@ -40,7 +40,7 @@
 #let section-header(title: "", icon: "") = {
   grid(
     columns: (1fr),
-    row-gutter: 6pt,
+    row-gutter: 3pt,
     align(left)[
       #if icon != "" {
         box(image(icon), height: 1.4em, baseline: 2pt)
@@ -101,7 +101,7 @@
 // 教育背景
 #let educations(educations) = {
   section-header(title: "Educations", icon: "./icons/education.svg")
-  set text(1.05em)
+  set text(1em)
 
   for education in educations {
     block[
@@ -116,7 +116,30 @@
     ]
   }
 
-  v(3pt)
+  v(-3pt)
+}
+
+// 校园经历
+#let schools(schools) = {
+  section-header(title: "Campus Experience", icon: "./icons/school.svg")
+  set list(indent: 1em, tight: true)
+
+  for school in schools {
+    block[
+      #text(1.25em, weight: "black", school.dapartment)
+      #h(3pt)
+      #school.jobtitle
+      #h(1fr)
+      #text(weight: "thin", emph(school.date))
+      
+      #for point in school.points.map(x => "[" + x + "]") {
+        list(eval(point))
+      v(-3pt)
+      }
+
+      #v(-3pt)
+    ]
+  }
 }
 
 // 项目经历
@@ -142,8 +165,9 @@
 
       #for point in project.points {
         list(point)
+        v(-5pt)
       }
-      #v(3pt)
+      #v(-3pt)
     ]
   }
 }
@@ -163,9 +187,9 @@
       
       #for point in internship.points.map(x => "[" + x + "]") {
         list(eval(point))
+      v(-5pt)
       }
-
-      #v(3pt)
+      #v(-3pt)
     ]
   }
 }
@@ -180,7 +204,7 @@
       #award.name
       #h(1fr)
       #text(weight: "thin", emph(award.date))
-      #v(2pt)
+      #v(-3pt)
     ]
   }
 }
@@ -195,7 +219,7 @@
       #skill.name
       #h(1fr)
       #text(weight: "regular", emph(skill.desc))
-      #v(2pt)
+      #v(-3pt)
     ]
   }
 }
