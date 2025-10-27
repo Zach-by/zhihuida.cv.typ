@@ -56,7 +56,7 @@
 #let cv(name: "", phone: "", email: "", website: "", avatar: "", body) = {
   set document(title: name)
   set page(paper: "a4", margin: (x: 2.1cm, y: 1.2cm))
-  set text(font: "LXGW WenKai", 0.9em, weight: "regular");
+  set text(font: "Times New Roman", 0.9em, weight: "regular");
   set par(justify: true, linebreaks: "optimized")
 
   align(center)[
@@ -116,7 +116,7 @@
     ]
   }
 
-  v(-3pt)
+  v(-1pt)
 }
 
 // 校园经历
@@ -137,7 +137,7 @@
       v(-3pt)
       }
 
-      #v(-3pt)
+      #v(-1pt)
     ]
   }
 }
@@ -167,7 +167,7 @@
         list(point)
         v(-5pt)
       }
-      #v(-3pt)
+      #v(-1pt)
     ]
   }
 }
@@ -189,7 +189,7 @@
         list(eval(point))
       v(-5pt)
       }
-      #v(-3pt)
+      #v(-1pt)
     ]
   }
 }
@@ -204,7 +204,7 @@
       #award.name
       #h(1fr)
       #text(weight: "thin", emph(award.date))
-      #v(-3pt)
+      #v(-1pt)
     ]
   }
 }
