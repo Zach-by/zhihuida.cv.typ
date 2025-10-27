@@ -22,8 +22,7 @@ date = "2021.8 - 2025.6"
 dapartment = "CSSA Graduate Student Department, UIUC"
 jobtitle = "Vice President"
 date = "2025.04 - now"
-points = ["Participated in planning and organizing three entertainment and career development activities for more than 500 students from UIUC. Developed leadership and organizational skills."]
-
+points = ["Participated in planning and organizing 3 entertainment and career development activities for more than 500 students from UIUC. Developed leadership and organizational skills."]
 
 [[schools]]
 dapartment = "Office of International Affiair, Chang'an University"
@@ -31,7 +30,6 @@ jobtitle = "Student Assistant"
 date = "2022.09 - 2023.06"
 points = ["Assisted teachers in handling daily affairs for international students and the preparations for international academic conferences, and acquired Chinese and English communication and cross-cultural collaboration skills",
 "With excellent academic performance, was selected for the 3+2 joint degree program between Chang'an University and University of Illinois at Urbana-Champaign"]
-
 
 [[projects]]
 name = "Harrah's Rincon Resort Expansion Project Bid Simulation"
@@ -49,8 +47,8 @@ date = "2023.6 - 2023.8"
 desc = "The project is located in Xi'an, Shaanxi. The project department is responsible for the construction of all main structures of the Qujiangchixi to Hanyao section of Xi'an Metro Line 8."
 points = ["Participate in the construction drawing design of the tunnel support system, assist in completing the AutoCAD drawings of the key node support parts, and ensure that the design meets the on-site construction requirements",
 "Assist the technical director to analyze and interpret the construction drawings of the shield section, station main structure, etc., and gain an in-depth understanding of the conversion process from drawings to site",
-"Responsible for on-site quality inspection of processes such as steel bar binding and formwork support, following national standards, and assisting in the rectification of more than 15 quality issues",
-"As one of the communication coordinators between the project department and the supervision unit, I participate in weekly engineering meetings to report on construction progress, communicate and solve on-site technical problems"]
+"Responsible for on-site quality inspection of processes such as steel bar binding and formwork support, and assisting in the rectification of more than 15 quality issues",
+"As one of the communication coordinators between the project department and the supervision unit, participating in weekly engineering meetings to report on construction progress"]
 
 [[internships]]
 company = "CSCEC"
@@ -59,11 +57,11 @@ date = "2023.6 - 2023.8"
 points = ["Proficient in engineering drawing based on AutoCAD", 
 "Master the transformation process from drawings to construction", 
 "Responsible for construction site supervision",
-"Prepare construction progress reports to report on construction progress"]
+"Prepare construction progress reports"]
 
 [[awards]]
 name = "First Prize, Chang'an University Bridge Structure Design Competition"
-date = "2022.5.19"
+date = "2022.5"
 
 [[skills]]
 name = "Engineering Software"
