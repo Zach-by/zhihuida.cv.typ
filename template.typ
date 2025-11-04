@@ -75,7 +75,7 @@
     #grid(
       columns: (auto, auto, auto, auto, auto, auto, auto),
       column-gutter: 0.8em,
-      link("")[
+      link("phone")[
         #box(image("./icons/phone.svg"))
         #phone
       ],
