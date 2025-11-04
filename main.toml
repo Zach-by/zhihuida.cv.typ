@@ -1,76 +1,76 @@
 [cv]
-name = "Zhihui Da"
-email = "zhihuid2@illinois.edu"
-phone = "(+1) 447-902-6095"
+name = "达智辉"
+email = "2021904052@chd.ecu.cn"
+phone = "180-6650-4248"
 website = "https://www.linkedin.com/in/zhihui-da-426a29325"
 # 路径
 avatar = ""
 
 [[educations]]
-school = "University of illinois Urbana-Champaign"
-major = "Construction Management"
-degree = "Master's"
-date = "2024.8 - now"
+school = "伊利诺伊大学香槟分校（UIUC）"
+major = "工程管理"
+degree = "硕士学位"
+date = "2024.8 - 2026.5"
 
 [[educations]]
-school = "Chang'an University"
-major = "Road, bridge and river-crossing Engineering"
-degree = "Bachelor's"
+school = "长安大学"
+major = "道路桥梁与渡河工程"
+degree = "学士学位"
 date = "2021.8 - 2025.6"
 
 [[schools]]
-dapartment = "CSSA Graduate Student Department, UIUC"
-jobtitle = "Vice President"
-date = "2025.04 - now"
-points = ["Participated in planning and organizing 3 entertainment and career development activities for more than 500 students from UIUC. Developed leadership and organizational skills."]
+dapartment = "UIUC中国学生学者联合会研究生部"
+jobtitle = "副部长"
+date = "2025.04 - 至今"
+points = ["参与策划和组织了三项面向伊利诺伊大学香槟分校500多名学生的娱乐和职业发展活动，培养了领导力和组织能力。"]
 
 [[schools]]
-dapartment = "Office of International Affiair, Chang'an University"
-jobtitle = "Student Assistant"
+dapartment = "长安大学国际合作与交流处"
+jobtitle = "学生助理"
 date = "2022.09 - 2023.06"
-points = ["Assisted teachers in handling daily affairs for international students and the preparations for international academic conferences, and acquired Chinese and English communication and cross-cultural collaboration skills",
-"With excellent academic performance, was selected for the 3+2 joint degree program between Chang'an University and University of Illinois at Urbana-Champaign"]
+points = ["协助处理国际学生的日常事务和国际学术会议的筹备工作，并在此过程中习得了中英文沟通和跨文化交流的能力。",
+"凭借优异的学业成绩，被选入长安大学与伊利诺伊大学厄巴纳-香槟分校的3+2联合学位项目。"]
 
 [[projects]]
-name = "Harrah's Rincon Resort Expansion Project Bid Simulation"
+name = "Harrah's Rincon度假中心扩建项目投标模拟"
 url = ""
 date = "2024.9 - 2024.12"
-desc = "The project is located in Valley Center, California. The project objective is to prepare bids for bid packages No.2 and No.5 of the Harrah's Rincon Resort expansion project."
-points = ["Responsible for the quantity takeoff and cost estimation of the bid packages No.5",
-"Utilize the RSMeans cost database to estimate the cost of earthwork, structure, and finishes for approximately $8.5 million",
-"Proficient in the preparation of Bill Of Quantities and cost estimation process under the American AIA standard contract framework"]
+desc = "该项目位于加利福尼亚州山谷中心。项目目标是为Harrah's Rincon度假中心扩建项目的第2号和第5号招标段准备投标书。"
+points = ["负责第5号投标段的工程量清单编制和成本估算。",
+"利用RSMeans成本数据库估算土方工程、结构和装修费用，完成估算总值约为850万美元。",
+"精通美国建筑师协会 (AIA) 标准合同框架下的工程量清单编制和成本估算流程。"]
 
 [[projects]]
-name = "Xi'an Metro Line 8 (Qujiangchi West to Hanyao Section)"
+name = "西安地铁8号线工程（曲江池至寒窑段）"
 url = ""
 date = "2023.6 - 2023.8"
-desc = "The project is located in Xi'an, Shaanxi. The project department is responsible for the construction of all main structures of the Qujiangchixi to Hanyao section of Xi'an Metro Line 8."
-points = ["Participate in the construction drawing design of the tunnel support system, assist in completing the AutoCAD drawings of the key node support parts, and ensure that the design meets the on-site construction requirements",
-"Assist the technical director to analyze and interpret the construction drawings of the shield section, station main structure, etc., and gain an in-depth understanding of the conversion process from drawings to site",
-"Responsible for on-site quality inspection of processes such as steel bar binding and formwork support, and assisting in the rectification of more than 15 quality issues",
-"As one of the communication coordinators between the project department and the supervision unit, participating in weekly engineering meetings to report on construction progress"]
+desc = "该项目位于陕西西安。我所在的项目部门负责西安地铁8号线曲江池西至寒窑段所有地铁隧道主体结构的施工。"
+points = ["参与隧道支护系统的施工图设计，协助完成关键节点支护部件的AutoCAD图纸，并确保设计满足现场施工要求。",
+"协助技术总监分析和解读盾构区段、车站主体结构等施工图纸，并深入理解从图纸到现场的转换过程。",
+"负责钢筋绑扎、模板支撑等工序的现场质量检查，并协助整改15项以上的质量问题。",
+"作为项目部与监理单位之间的沟通协调员之一，参与每周的工程会议，汇报施工进度。"]
 
 [[internships]]
-company = "CSCEC"
-jobtitle = "Technical Engineer in Xi'an Metro Line 8"
+company = "中建五局西北公司"
+jobtitle = "西安地铁8号线项目技术工程师"
 date = "2023.6 - 2023.8"
-points = ["Proficient in engineering drawing based on AutoCAD", 
-"Master the transformation process from drawings to construction", 
-"Responsible for construction site supervision",
-"Prepare construction progress reports"]
+points = ["精通基于AutoCAD的工程制图", 
+"掌握从图纸到施工的转化过程", 
+"负责施工现场监督",
+"协助准备施工进度报告"]
 
 [[awards]]
-name = "First Prize, Chang'an University Bridge Structure Design Competition"
+name = "一等奖，长安大学桥梁结构设计竞赛"
 date = "2022.5"
 
 [[skills]]
-name = "Engineering Software"
+name = "工程软件"
 desc = "Primavera P6, Microsoft Project, AutoCAD, Midas, VEROAD"
 
 [[skills]]
-name = "Programming"
+name = "编程能力"
 desc = "Git, VS Code, Python, Julia, Typst"
 
 [[skills]]
-name = "Language"
-desc = "English, Chinese Mandarin"
+name = "工作语言"
+desc = "English, 普通话"
